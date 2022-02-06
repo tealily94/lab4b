@@ -18,7 +18,7 @@
             <lable for="password">Password: </lable>
             <input type="password" name="password" id="password" required>
             </p>            
-            <button type="submit">submit</button>
+            <button type="submit">Submit</button>
         </form>
         
         <p>${message}</p>
